@@ -78,6 +78,7 @@ debian/files
 *.zip
 *.png
 *.JPEG
+*.txt
 
 .venv
 .vscode

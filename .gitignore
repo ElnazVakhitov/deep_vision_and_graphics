@@ -75,9 +75,11 @@ debian/files
 *.substvars
 *.debhelper.log
 
+*.gz
 *.zip
 *.png
 *.JPEG
+*/data_*
 
 .venv
 .vscode

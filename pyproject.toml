@@ -16,7 +16,9 @@ dependencies = [
     "bokeh (>=3.8.0,<4.0.0)",
     "matplotlib (>=3.10.6,<4.0.0)",
     "torchvision (>=0.23.0,<0.24.0)",
-    "scikit-image (>=0.25.2,<0.26.0)"
+    "scikit-image (>=0.25.2,<0.26.0)",
+    "opencv-python (>=4.12.0.88,<5.0.0.0)",
+    "albumentations (>=2.0.8,<3.0.0)"
 ]
 
 
